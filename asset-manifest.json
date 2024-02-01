@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/newsletter-signup-page/static/css/main.92d3ec3b.css",
+    "main.js": "/newsletter-signup-page/static/js/main.568eed32.js",
+    "static/media/Roboto-Regular.ttf": "/newsletter-signup-page/static/media/Roboto-Regular.160d7a6ac26376e5e977.ttf",
+    "static/media/Roboto-Bold.ttf": "/newsletter-signup-page/static/media/Roboto-Bold.35eab922fdbe4b5324d4.ttf",
+    "static/media/illustration-sign-up-mobile.svg": "/newsletter-signup-page/static/media/illustration-sign-up-mobile.3f6f1c6d3e48045cb31a.svg",
+    "static/media/illustration-sign-up-desktop.svg": "/newsletter-signup-page/static/media/illustration-sign-up-desktop.ce2024babf0bc98a8862.svg",
+    "index.html": "/newsletter-signup-page/index.html",
+    "static/media/icon-success.svg": "/newsletter-signup-page/static/media/icon-success.1ad016255f85fa877dc6bee8c9621535.svg",
+    "static/media/icon-list.svg": "/newsletter-signup-page/static/media/icon-list.5e317c030bb9f11a33433484a2c590e1.svg",
+    "main.92d3ec3b.css.map": "/newsletter-signup-page/static/css/main.92d3ec3b.css.map",
+    "main.568eed32.js.map": "/newsletter-signup-page/static/js/main.568eed32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92d3ec3b.css",
+    "static/js/main.568eed32.js"
+  ]
+}
